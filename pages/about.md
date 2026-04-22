@@ -1,7 +1,7 @@
 ---
-title: About
-layout: about
-permalink: /about.html
+title: Jazz is in the Arts Louis Armstrong
+layout: Jazz
+permalink: https://library.biblioboard.com/content/a8709ec7-e826-4715-ad80-983686a175f7/about.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
